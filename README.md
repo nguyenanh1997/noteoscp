@@ -1,4 +1,4 @@
 # noteoscp
 technique for oscp exam
-https://pentestlab.blog 
-https://github.com/security-prince/PWK-OSCP-Preparation-Roadmap
+</br>https://pentestlab.blog 
+</br>https://github.com/security-prince/PWK-OSCP-Preparation-Roadmap
